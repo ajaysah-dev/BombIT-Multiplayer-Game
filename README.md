@@ -6,7 +6,10 @@ Pass it to someone else before time runs out!
 If the bomb explodes while you’re holding it — **you lose**.  
 Survive without the bomb to **win**.
 
-
+<!-- Main Large Image -->
+<p align="left">
+  <img src="https://github.com/ajaysah-dev/BombIT-Multiplayer-Game/blob/main/ShowcaseImages/1.png?raw=true?raw=true" width="80%">
+</p>
 
 ⚡ Quick rounds  
 🔥 High tension  
@@ -21,6 +24,10 @@ Survive without the bomb to **win**.
 - **C** — Slide  
 - **E** — Pass bomb to another player  
 - **Esc** — Pause  
+---
+
+## 🔗 Links
+- 🎥 **Download Link :** *https://proactic.itch.io/bombit*
 
 ---
 
