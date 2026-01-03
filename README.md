@@ -23,11 +23,47 @@ Survive without the bomb to **win**.
 - **Space** — Jump  
 - **C** — Slide  
 - **E** — Pass bomb to another player  
-- **Esc** — Pause  
+- **Esc** — Pause
+
 ---
 
 ## 🔗 Links
 - 🎥 **Download Link :** *https://proactic.itch.io/bombit*
+
+<!--
+---
+
+## 🎥 ShowCase Images
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github.com/ajaysah-dev/BombIT-Multiplayer-Game/blob/main/ShowcaseImages/2.png?raw=true" width="200"><br>
+    </td>
+    <td align="center">
+      <img src="https://github.com/ajaysah-dev/BombIT-Multiplayer-Game/blob/main/ShowcaseImages/3.png?raw=true" width="200"><br>
+    </td>
+    <td align="center">
+      <img src="https://github.com/ajaysah-dev/BombIT-Multiplayer-Game/blob/main/ShowcaseImages/4.png?raw=true" width="200"><br>
+    </td>
+    <td align="center">
+      <img src="https://github.com/ajaysah-dev/BombIT-Multiplayer-Game/blob/main/ShowcaseImages/5.png?raw=true" width="200"><br>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/ajaysah-dev/BombIT-Multiplayer-Game/blob/main/ShowcaseImages/6.png?raw=true" width="200"><br>
+    </td>
+    <td align="center">
+      <img src="https://github.com/ajaysah-dev/BombIT-Multiplayer-Game/blob/main/ShowcaseImages/7.png?raw=true" width="200"><br>
+    </td>
+    <td align="center">
+      <img src="https://github.com/ajaysah-dev/BombIT-Multiplayer-Game/blob/main/ShowcaseImages/8.png?raw=true" width="200"><br>
+    </td>
+    <td></td>
+  </tr>
+</table>
+
+-->
 
 ---
 
